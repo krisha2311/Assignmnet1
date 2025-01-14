@@ -1,0 +1,14 @@
+C:\Users\keyur\source\repos\Krisha1_Assignment\Krisha1_Assignment\bin\Debug\net8.0\Krisha1_Assignment.exe
+C:\Users\keyur\source\repos\Krisha1_Assignment\Krisha1_Assignment\bin\Debug\net8.0\Krisha1_Assignment.deps.json
+C:\Users\keyur\source\repos\Krisha1_Assignment\Krisha1_Assignment\bin\Debug\net8.0\Krisha1_Assignment.runtimeconfig.json
+C:\Users\keyur\source\repos\Krisha1_Assignment\Krisha1_Assignment\bin\Debug\net8.0\Krisha1_Assignment.dll
+C:\Users\keyur\source\repos\Krisha1_Assignment\Krisha1_Assignment\bin\Debug\net8.0\Krisha1_Assignment.pdb
+C:\Users\keyur\source\repos\Krisha1_Assignment\Krisha1_Assignment\obj\Debug\net8.0\Krisha1_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyur\source\repos\Krisha1_Assignment\Krisha1_Assignment\obj\Debug\net8.0\Krisha1_Assignment.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\Krisha1_Assignment\Krisha1_Assignment\obj\Debug\net8.0\Krisha1_Assignment.AssemblyInfo.cs
+C:\Users\keyur\source\repos\Krisha1_Assignment\Krisha1_Assignment\obj\Debug\net8.0\Krisha1_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\Krisha1_Assignment\Krisha1_Assignment\obj\Debug\net8.0\Krisha1_Assignment.dll
+C:\Users\keyur\source\repos\Krisha1_Assignment\Krisha1_Assignment\obj\Debug\net8.0\refint\Krisha1_Assignment.dll
+C:\Users\keyur\source\repos\Krisha1_Assignment\Krisha1_Assignment\obj\Debug\net8.0\Krisha1_Assignment.pdb
+C:\Users\keyur\source\repos\Krisha1_Assignment\Krisha1_Assignment\obj\Debug\net8.0\Krisha1_Assignment.genruntimeconfig.cache
+C:\Users\keyur\source\repos\Krisha1_Assignment\Krisha1_Assignment\obj\Debug\net8.0\ref\Krisha1_Assignment.dll
